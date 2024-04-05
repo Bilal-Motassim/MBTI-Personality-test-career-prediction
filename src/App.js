@@ -61,7 +61,7 @@ function App() {
   const Submit = () => {
     const data = [];
     selectedAnswers.forEach((v, i) => {
-      data.push({ [i]: v })
+      data.push({ [i+1]: v })
     });
     console.log(data);
     axios.post("http://localhost:5000/", {
