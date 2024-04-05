@@ -1,0 +1,562 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "At a party do you:",
+    "options": [
+      { "option": "a", "label": "Interact with many, including strangers" },
+      { "option": "b", "label": "Interact with a few, known to you" }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "Are you more:",
+    "options": [
+      { "option": "a", "label": "Realistic than speculative" },
+      { "option": "b", "label": "Speculative than realistic" }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "Is it worse to:",
+    "options": [
+      { "option": "a", "label": "Have your “head in the clouds”" },
+      { "option": "b", "label": "Be “in a rut”" }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "Are you more impressed by:",
+    "options": [
+      { "option": "a", "label": "Principles" },
+      { "option": "b", "label": "Emotions" }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "Are more drawn toward the:",
+    "options": [
+      { "option": "a", "label": "Convincing" },
+      { "option": "b", "label": "Touching" }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "question": "Do you prefer to work:",
+    "options": [
+      { "option": "a", "label": "To deadlines" },
+      { "option": "b", "label": "Just “whenever”" }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "Do you tend to choose:",
+    "options": [
+      { "option": "a", "label": "Rather carefully" },
+      { "option": "b", "label": "Somewhat impulsively" }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "At parties do you:",
+    "options": [
+      { "option": "a", "label": "Stay late, with increasing energy" },
+      { "option": "b", "label": "Leave early with decreased energy" }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "Are you more attracted to:",
+    "options": [
+      { "option": "a", "label": "Sensible people" },
+      { "option": "b", "label": "Imaginative people" }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "question": "Are you more interested in:",
+    "options": [
+      { "option": "a", "label": "What is actual" },
+      { "option": "b", "label": "What is possible" }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "In judging others are you more swayed by:",
+    "options": [
+      { "option": "a", "label": "Laws than circumstances" },
+      { "option": "b", "label": "Circumstances than laws" }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "In approaching others is your inclination to be somewhat:",
+    "options": [
+      { "option": "a", "label": "Objective" },
+      { "option": "b", "label": "Personal" }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "Are you more:",
+    "options": [
+      { "option": "a", "label": "Punctual" },
+      { "option": "b", "label": "Leisurely" }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "question": "Does it bother you more having things:",
+    "options": [
+      { "option": "a", "label": "Incomplete" },
+      { "option": "b", "label": "Completed" }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "In your social groups do you:",
+    "options": [
+      { "option": "a", "label": "Keep abreast of other’s happenings" },
+      { "option": "b", "label": "Get behind on the news" }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "In doing ordinary things are you more likely to:",
+    "options": [
+      { "option": "a", "label": "Do it the usual way" },
+      { "option": "b", "label": "Do it your own way" }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "Writers should:",
+    "options": [
+      { "option": "a", "label": "“Say what they mean and mean what they say”" },
+      { "option": "b", "label": "Express things more by use of analogy" }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "Which appeals to you more:",
+    "options": [
+      { "option": "a", "label": "Consistency of thought" },
+      { "option": "b", "label": "Harmonious human relationships" }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "Are you more comfortable in making:",
+    "options": [
+      { "option": "a", "label": "Logical judgments" },
+      { "option": "b", "label": "Value judgments" }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "Do you want things:",
+    "options": [
+      { "option": "a", "label": "Settled and decided" },
+      { "option": "b", "label": "Unsettled and undecided" }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "Would you say you are more:",
+    "options": [
+      { "option": "a", "label": "Serious and determined" },
+      { "option": "b", "label": "Easy-going" }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "In phoning do you:",
+    "options": [
+      { "option": "a", "label": "Rarely question that it will all be said" },
+      { "option": "b", "label": "Rehearse what you’ll say" }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "Facts:",
+    "options": [
+      { "option": "a", "label": "“Speak for themselves”" },
+      { "option": "b", "label": "Illustrate principles" }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "question": "Are visionaries:",
+    "options": [
+      { "option": "a", "label": "somewhat annoying" },
+      { "option": "b", "label": "rather fascinating" }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "Are you more often:",
+    "options": [
+      { "option": "a", "label": "a cool-headed person" },
+      { "option": "b", "label": "a warm-hearted person" }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "Is it worse to be:",
+    "options": [
+      { "option": "a", "label": "unjust" },
+      { "option": "b", "label": "merciless" }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "Should one usually let events occur:",
+    "options": [
+      { "option": "a", "label": "by careful selection and choice" },
+      { "option": "b", "label": "randomly and by chance" }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "Do you feel better about:",
+    "options": [
+      { "option": "a", "label": "having purchased" },
+      { "option": "b", "label": "having the option to buy" }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "In company do you:",
+    "options": [
+      { "option": "a", "label": "initiate conversation" },
+      { "option": "b", "label": "wait to be approached" }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "Common sense is:",
+    "options": [
+      { "option": "a", "label": "rarely questionable" },
+      { "option": "b", "label": "frequently questionable" }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "Children often do not:",
+    "options": [
+      { "option": "a", "label": "make themselves useful enough" },
+      { "option": "b", "label": "exercise their fantasy enough" }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "In making decisions do you feel more comfortable with:",
+    "options": [
+      { "option": "a", "label": "standards" },
+      { "option": "b", "label": "feelings" }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "Are you more:",
+    "options": [
+      { "option": "a", "label": "firm than gentle" },
+      { "option": "b", "label": "gentle than firm" }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "question": "Which is more admirable:",
+    "options": [
+      { "option": "a", "label": "the ability to organize and be methodical" },
+      { "option": "b", "label": "the ability to adapt and make do" }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "Do you put more value on:",
+    "options": [
+      { "option": "a", "label": "infinite" },
+      { "option": "b", "label": "open-minded" }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "Does new and non-routine interaction with others:",
+    "options": [
+      { "option": "a", "label": "stimulate and energize you" },
+      { "option": "b", "label": "tax your reserves" }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "Are you more frequently:",
+    "options": [
+      { "option": "a", "label": "a practical sort of person" },
+      { "option": "b", "label": "a fanciful sort of person" }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "Are you more likely to:",
+    "options": [
+      { "option": "a", "label": "see how others are useful" },
+      { "option": "b", "label": "see how others see" }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "Which is more satisfying:",
+    "options": [
+      { "option": "a", "label": "to discuss an issue thoroughly" },
+      { "option": "b", "label": "to arrive at agreement on an issue" }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "Which rules you more:",
+    "options": [
+      { "option": "a", "label": "your head" },
+      { "option": "b", "label": "your heart" }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "Are you more comfortable with work that is:",
+    "options": [
+      { "option": "a", "label": "contracted" },
+      { "option": "b", "label": "done on a casual basis" }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "Do you tend to look for:",
+    "options": [
+      { "option": "a", "label": "the orderly" },
+      { "option": "b", "label": "whatever turns up" }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "Do you prefer:",
+    "options": [
+      { "option": "a", "label": "many friends with brief contact" },
+      { "option": "b", "label": "a few friends with more lengthy contact" }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "Do you go more by:",
+    "options": [
+      { "option": "a", "label": "facts" },
+      { "option": "b", "label": "principles" }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "Are you more interested in:",
+    "options": [
+      { "option": "a", "label": "production and distribution" },
+      { "option": "b", "label": "design and research" }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "Which is more of a compliment:",
+    "options": [
+      { "option": "a", "label": "“There is a very logical person.”" },
+      { "option": "b", "label": "“There is a very sentimental person.”" }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "Do you value in yourself more that you are:",
+    "options": [
+      { "option": "a", "label": "unwavering" },
+      { "option": "b", "label": "devoted" }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "Do you more often prefer the:",
+    "options": [
+      { "option": "a", "label": "final and unalterable statement" },
+      { "option": "b", "label": "tentative and preliminary statement" }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "Are you more comfortable:",
+    "options": [
+      { "option": "a", "label": "after a decision" },
+      { "option": "b", "label": "before a decision" }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "Do you:",
+    "options": [
+      { "option": "a", "label": "speak easily and at length with strangers" },
+      { "option": "b", "label": "find little to say to strangers" }
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "question": "Are you more likely to trust your:",
+    "options": [
+      { "option": "a", "label": "experience" },
+      { "option": "b", "label": "hunch" }
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "question": "Do you feel:",
+    "options": [
+      { "option": "a", "label": "more practical than ingenious" },
+      { "option": "b", "label": "more ingenious than practical" }
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "question": "Which person is more to be complimented – one of:",
+    "options": [
+      { "option": "a", "label": "clear reason" },
+      { "option": "b", "label": "strong feeling" }
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "question": "Are you inclined more to be:",
+    "options": [
+      { "option": "a", "label": "fair-minded" },
+      { "option": "b", "label": "sympathetic" }
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "question": "Is it preferable mostly to:",
+    "options": [
+      { "option": "a", "label": "make sure things are arranged" },
+      { "option": "b", "label": "just let things happen" }
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "question": "In relationships should most things be:",
+    "options": [
+      { "option": "a", "label": "re-negotiable" },
+      { "option": "b", "label": "random and circumstantial" }
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "question": "When the phone rings do you:",
+    "options": [
+      { "option": "a", "label": "hasten to get to it first" },
+      { "option": "b", "label": "hope someone else will answer" }
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "question": "Do you prize more in yourself:",
+    "options": [
+      { "option": "a", "label": "a strong sense of reality" },
+      { "option": "b", "label": "a vivid imagination" }
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "question": "Are you drawn more to:",
+    "options": [
+      { "option": "a", "label": "fundamentals" },
+      { "option": "b", "label": "overtones" }
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "question": "Which seems the greater error:",
+    "options": [
+      { "option": "a", "label": "to be too passionate" },
+      { "option": "b", "label": "to be too objective" }
+    ]
+  },
+  {
+    "questionNumber": 61,
+    "question": "Do you see yourself as basically:",
+    "options": [
+      { "option": "a", "label": "hard-headed" },
+      { "option": "b", "label": "soft-hearted" }
+    ]
+  },
+  {
+    "questionNumber": 62,
+    "question": "Which situation appeals to you more:",
+    "options": [
+      { "option": "a", "label": "the structured and scheduled" },
+      { "option": "b", "label": "the unstructured and unscheduled" }
+    ]
+  },
+  {
+    "questionNumber": 63,
+    "question": "Are you a person that is more:",
+    "options": [
+      { "option": "a", "label": "routinized than whimsical" },
+      { "option": "b", "label": "whimsical than routinized" }
+    ]
+  },
+  {
+    "questionNumber": 64,
+    "question": "Are you more inclined to be:",
+    "options": [
+      { "option": "a", "label": "easy to approach" },
+      { "option": "b", "label": "somewhat reserved" }
+    ]
+  },
+  {
+    "questionNumber": 65,
+    "question": "In writings do you prefer:",
+    "options": [
+      { "option": "a", "label": "the more literal" },
+      { "option": "b", "label": "the more figurative" }
+    ]
+  },
+  {
+    "questionNumber": 66,
+    "question": "Is it harder for you to:",
+    "options": [
+      { "option": "a", "label": "identify with others" },
+      { "option": "b", "label": "utilize others" }
+    ]
+  },
+  {
+    "questionNumber": 67,
+    "question": "Which do you wish more for yourself:",
+    "options": [
+      { "option": "a", "label": "clarity of reason" },
+      { "option": "b", "label": "strength of compassion" }
+    ]
+  },
+  {
+    "questionNumber": 68,
+    "question": "Which is the greater fault:",
+    "options": [
+      { "option": "a", "label": "being indiscriminate" },
+      { "option": "b", "label": "being critical" }
+    ]
+  },
+  {
+    "questionNumber": 69,
+    "question": "Do you prefer the:",
+    "options": [
+      { "option": "a", "label": "planned event" },
+      { "option": "b", "label": "unplanned event" }
+    ]
+  },
+  {
+    "questionNumber": 70,
+    "question": "Do you tend to be more:",
+    "options": [
+      { "option": "a", "label": "deliberate than spontaneous" },
+      { "option": "b", "label": "spontaneous than deliberate" }
+    ]
+  }
+]
