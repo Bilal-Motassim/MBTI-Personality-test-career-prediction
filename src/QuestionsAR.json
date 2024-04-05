@@ -1,0 +1,563 @@
+[
+    {
+      "questionNumber": 1,
+      "question": "في الحفلات، هل تفضل:",
+      "options": [
+        { "option": "a", "label": "التفاعل مع الكثيرين، بما في ذلك الغرباء" },
+        { "option": "b", "label": "التفاعل مع عدد قليل من الأشخاص المعروفين لك" }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "question": "هل أنت أكثر:",
+      "options": [
+        { "option": "a", "label": "واقعي من المتخيل" },
+        { "option": "b", "label": "متخيل من الواقعي" }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "question": "ما هو الأسوأ من الآتي:",
+      "options": [
+        { "option": "a", "label": "أن تكون ذاهبًا في السحب" },
+        { "option": "b", "label": "أن تكون في وضع من الركود" }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "question": "هل تعجبك المبادئ أكثر، أم العواطف؟",
+      "options": [
+        { "option": "a", "label": "المبادئ" },
+        { "option": "b", "label": "العواطف" }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "question": "ما هو الأمر الذي يجذبك أكثر؟",
+      "options": [
+        { "option": "a", "label": "الإقناع" },
+        { "option": "b", "label": "المؤثر" }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "question": "هل تفضل العمل:",
+      "options": [
+        { "option": "a", "label": "وفقًا للمواعيد النهائية" },
+        { "option": "b", "label": "حسب الظروف" }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "question": "هل تميل إلى اتخاذ القرارات:",
+      "options": [
+        { "option": "a", "label": "بحذر نوعًا ما" },
+        { "option": "b", "label": "بشكل متسرع نوعًا ما" }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "question": "في الحفلات، هل تفضل:",
+      "options": [
+        { "option": "a", "label": "البقاء لوقت متأخر مع زيادة الطاقة" },
+        { "option": "b", "label": "المغادرة مبكرًا مع انخفاض الطاقة" }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "question": "ما الذي يجذبك أكثر؟",
+      "options": [
+        { "option": "a", "label": "الأشخاص العقلانيين" },
+        { "option": "b", "label": "الأشخاص المتخيلين" }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "question": "هل أنت مهتم أكثر بـ:",
+      "options": [
+        { "option": "a", "label": "ما هو موجود بالفعل" },
+        { "option": "b", "label": "ما هو ممكن" }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "question": "عند التحكيم في الآخرين، هل تتأثر أكثر بـ:",
+      "options": [
+        { "option": "a", "label": "القوانين أكثر من الظروف" },
+        { "option": "b", "label": "الظروف أكثر من القوانين" }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "question": "عند التواصل مع الآخرين، هل ميلاك ليكون إلى حد ما:",
+      "options": [
+        { "option": "a", "label": "موضوعيًا" },
+        { "option": "b", "label": "شخصيًا" }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "question": "هل أنت أكثر:",
+      "options": [
+        { "option": "a", "label": "دقيق في المواعيد" },
+        { "option": "b", "label": "مسترخٍ" }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "question": "ما الذي يزعجك أكثر، وجود الأشياء:",
+      "options": [
+        { "option": "a", "label": "غير مكتملة" },
+        { "option": "b", "label": "مكتملة" }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "question": "في مجموعاتك الاجتماعية، هل تفضل:",
+      "options": [
+        { "option": "a", "label": "متابعة أحداث الآخرين" },
+        { "option": "b", "label": "التخلف عن أخبار الآخرين" }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "question": "عند القيام بالأمور العادية، هل من المرجح أن تفضل:",
+      "options": [
+        { "option": "a", "label": "القيام بها بالطريقة المعتادة" },
+        { "option": "b", "label": "القيام بها بطريقتك الخاصة" }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "question": "يجب على الكتاب:",
+      "options": [
+        { "option": "a", "label": "أن “يقولوا ما يقصدون ويعنون ما يقولون”" },
+        { "option": "b", "label": "التعبير عن الأشياء بشكل أكبر باستخدام التشبيهات" }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "question": "ما الذي يجذبك أكثر:",
+      "options": [
+        { "option": "a", "label": "تماسك الفكر" },
+        { "option": "b", "label": "علاقات إنسانية متناغمة" }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "question": "هل أنت أكثر راحة في اتخاذ القرارات:",
+      "options": [
+        { "option": "a", "label": "المنطقية" },
+        { "option": "b", "label": "القيمية" }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "question": "هل تريد الأشياء:",
+      "options": [
+        { "option": "a", "label": "مستقرة ومحددة" },
+        { "option": "b", "label": "غير مستقرة وغير محددة" }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "question": "هل تعتقد أنك أكثر:",
+      "options": [
+        { "option": "a", "label": "جدي ومصمم" },
+        { "option": "b", "label": "مريح وسهل الانسياب" }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "question": "عند الاتصال بالهاتف، هل:",
+      "options": [
+        { "option": "a", "label": "نادرًا ما تشكك في أن كل شيء سيتم قوله" },
+        { "option": "b", "label": "تقوم بتدريب نفسك على ما ستقوله" }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "question": "الحقائق:",
+      "options": [
+        { "option": "a", "label": "تتحدث بنفسها" },
+        { "option": "b", "label": "توضح المبادئ" }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "question": "هل الرؤى مزعجة إلى حد ما، أم مثيرة للاهتمام؟",
+      "options": [
+        { "option": "a", "label": "إلى حد ما مزعجة" },
+        { "option": "b", "label": "مثيرة للاهتمام إلى حد ما" }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "question": "هل أنت غالبًا:",
+      "options": [
+        { "option": "a", "label": "شخص هادئ العقل" },
+        { "option": "b", "label": "شخص دافئ القلب" }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "question": "الأسوأ هو أن تكون:",
+      "options": [
+        { "option": "a", "label": "غير عادل" },
+        { "option": "b", "label": "لا رحمة" }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "question": "هل يجب أن يترك الشخص عادة الأحداث:",
+      "options": [
+        { "option": "a", "label": "بعناية واختيار" },
+        { "option": "b", "label": "عشوائيًا وبالصدفة" }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "question": "هل تشعر بأنك أكثر راحة بعد:",
+      "options": [
+        { "option": "a", "label": "الشراء" },
+        { "option": "b", "label": "فرصة الشراء" }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "question": "في الشركة، هل:",
+      "options": [
+        { "option": "a", "label": "تبدأ في المحادثة" },
+        { "option": "b", "label": "تنتظر أن يقترب الآخرون منك" }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "question": "هل الحس السليم:",
+      "options": [
+        { "option": "a", "label": "نادرا ما يثير الشك" },
+        { "option": "b", "label": "غالبًا ما يثير الشك" }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "question": "غالبًا ما لا يقوم الأطفال بـ:",
+      "options": [
+        { "option": "a", "label": "جعل أنفسهم مفيدين بما فيه الكفاية" },
+        { "option": "b", "label": "ممارسة خيالهم بما فيه الكفاية" }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "question": "عند اتخاذ القرارات، هل تشعر بأنك أكثر راحة مع:",
+      "options": [
+        { "option": "a", "label": "المعايير" },
+        { "option": "b", "label": "المشاعر" }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "question": "هل أنت أكثر:",
+      "options": [
+        { "option": "a", "label": "حازم من اللطيف" },
+        { "option": "b", "label": "لطيف من الحازم" }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "question": "ما هو الأكثر إعجابًا:",
+      "options": [
+        { "option": "a", "label": "القدرة على التنظيم والنظام" },
+        { "option": "b", "label": "القدرة على التكيف والتكيف" }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "question": "هل تضع قيمة أكبر على:",
+      "options": [
+        { "option": "a", "label": "لا نهائية" },
+        { "option": "b", "label": "عقلانية" }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "question": "هل تحفزك وتمنحك طاقة المراجعات الجديدة وغير الروتينية مع الآخرين، أم تضعف الاحتياطيات الخاصة بك؟",
+      "options": [
+        { "option": "a", "label": "تحفز وتمنحني طاقة" },
+        { "option": "b", "label": "تضعف الاحتياطيات الخاصة بي" }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "question": "هل أنت أكثر تكريمًا لنفسك:",
+      "options": [
+        { "option": "a", "label": "نوع من العملية" },
+        { "option": "b", "label": "نوع من الخيال" }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "question": "هل من الأكثر احتمالا أن ترى كيف يمكن أن يكون الآخرون مفيدين، أم كيف يرى الآخرون؟",
+      "options": [
+        { "option": "a", "label": "ترى كيف يمكن أن يكون الآخرون مفيدين" },
+        { "option": "b", "label": "ترى كيف يرى الآخرون" }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "question": "ما هو أكثر إشباعًا:",
+      "options": [
+        { "option": "a", "label": "مناقشة قضية بعناية" },
+        { "option": "b", "label": "الوصول إلى اتفاق بشأن قضية" }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "question": "ما الذي يحكمك أكثر:",
+      "options": [
+        { "option": "a", "label": "رأسك" },
+        { "option": "b", "label": "قلبك" }
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "question": "هل تشعر بأنك أكثر راحة مع العمل الذي:",
+      "options": [
+        { "option": "a", "label": "تمت الاتفاق عليه" },
+        { "option": "b", "label": "يتم على أساس عرضي" }
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "question": "هل تميل إلى البحث عن:",
+      "options": [
+        { "option": "a", "label": "المنظم" },
+        { "option": "b", "label": "ما يظهر" }
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "question": "هل تفضل:",
+      "options": [
+        { "option": "a", "label": "الكثير من الأصدقاء مع اتصال قصير" },
+        { "option": "b", "label": "عدد قليل من الأصدقاء مع اتصال أطول" }
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "question": "هل تتبع الحقائق أكثر من المبادئ؟",
+      "options": [
+        { "option": "a", "label": "الحقائق" },
+        { "option": "b", "label": "المبادئ" }
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "question": "هل أنت أكثر اهتمامًا بـ:",
+      "options": [
+        { "option": "a", "label": "الإنتاج والتوزيع" },
+        { "option": "b", "label": "التصميم والبحث" }
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "question": "ما هو الأكثر إشادة:",
+      "options": [
+        { "option": "a", "label": "هناك شخص منطقي جدًا" },
+        { "option": "b", "label": "هناك شخص معترف به جدًا" }
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "question": "هل تقدر في نفسك أنك أكثر:",
+      "options": [
+        { "option": "a", "label": "محبوب" },
+        { "option": "b", "label": "محترم" }
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "question": "ما هو الأمر الذي يجذبك أكثر:",
+      "options": [
+        { "option": "a", "label": "الحقيقة الواضحة" },
+        { "option": "b", "label": "الأفكار المتشابكة" }
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "question": "هل تتمتع بقدر كبير من:",
+      "options": [
+        { "option": "a", "label": "المرونة والليونة" },
+        { "option": "b", "label": "الثبات والقوة" }
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "question": "عند اتخاذ القرارات، هل تعتمد على:",
+      "options": [
+        { "option": "a", "label": "الحقائق" },
+        { "option": "b", "label": "المبادئ" }
+      ]
+    },
+    {
+        "questionNumber": 51,
+        "question": "هل تثق بشكل أكبر في:",
+        "options": [
+          { "option": "a", "label": "تجربتك" },
+          { "option": "b", "label": "احتراسك" }
+        ]
+      },
+      {
+        "questionNumber": 52,
+        "question": "هل تشعر بأنك:",
+        "options": [
+          { "option": "a", "label": "أكثر عملي من الإبداعي" },
+          { "option": "b", "label": "أكثر إبداعًا من العملي" }
+        ]
+      },
+      {
+        "questionNumber": 53,
+        "question": "من الأشخاص الذين يجب أن يُثنى عليهم أكثر - أحدهم:",
+        "options": [
+          { "option": "a", "label": "يمتلك سببًا واضحًا" },
+          { "option": "b", "label": "يمتلك شعورًا قويًا" }
+        ]
+      },
+      {
+        "questionNumber": 54,
+        "question": "هل لديك الإنحياز لأن تكون:",
+        "options": [
+          { "option": "a", "label": "عادل الحكم" },
+          { "option": "b", "label": "متعاطف" }
+        ]
+      },
+      {
+        "questionNumber": 55,
+        "question": "هل من الأفضل في الغالب:",
+        "options": [
+          { "option": "a", "label": "التأكد من ترتيب الأشياء" },
+          { "option": "b", "label": "مجرد السماح للأمور بالحدوث" }
+        ]
+      },
+      {
+        "questionNumber": 56,
+        "question": "في العلاقات، هل يجب أن تكون معظم الأشياء:",
+        "options": [
+          { "option": "a", "label": "قابلة لإعادة التفاوض" },
+          { "option": "b", "label": "عشوائية ومحض الظروف" }
+        ]
+      },
+      {
+        "questionNumber": 57,
+        "question": "عندما يرن الهاتف، هل ت:",
+        "options": [
+          { "option": "a", "label": "أسرع في الوصول إليه أولاً" },
+          { "option": "b", "label": "آمل أن يجيب شخص آخر" }
+        ]
+      },
+      {
+        "questionNumber": 58,
+        "question": "هل تقدر أكثر في نفسك:",
+        "options": [
+          { "option": "a", "label": "حس بالواقعية القوية" },
+          { "option": "b", "label": "خيال حيوي" }
+        ]
+      },
+      {
+        "questionNumber": 59,
+        "question": "هل تتجه أكثر إلى:",
+        "options": [
+          { "option": "a", "label": "الأساسيات" },
+          { "option": "b", "label": "النغمات الفرعية" }
+        ]
+      },
+      {
+        "questionNumber": 60,
+        "question": "ما هو الخطأ الأكبر:",
+        "options": [
+          { "option": "a", "label": "أن تكون عاطفيًا جدًا" },
+          { "option": "b", "label": "أن تكون موضوعيًا جدًا" }
+        ]
+      },
+      {
+        "questionNumber": 61,
+        "question": "هل ترى نفسك أساسًا:",
+        "options": [
+          { "option": "a", "label": "صلب الرأس" },
+          { "option": "b", "label": "طيب القلب" }
+        ]
+      },
+      {
+        "questionNumber": 62,
+        "question": "أي الوضعين يجذبك أكثر:",
+        "options": [
+          { "option": "a", "label": "المنظم والمجدول" },
+          { "option": "b", "label": "غير المنظم وغير المجدول" }
+        ]
+      },
+      {
+        "questionNumber": 63,
+        "question": "هل أنت شخص أكثر:",
+        "options": [
+          { "option": "a", "label": "متعرج بدلاً من متهور" },
+          { "option": "b", "label": "متهور بدلاً من متعرج" }
+        ]
+      },
+      {
+        "questionNumber": 64,
+        "question": "هل تميل إلى أن تكون:",
+        "options": [
+          { "option": "a", "label": "سهل التواصل" },
+          { "option": "b", "label": "محجوز إلى حد ما" }
+        ]
+      },
+      {
+        "questionNumber": 65,
+        "question": "في الكتابات، هل تفضل:",
+        "options": [
+          { "option": "a", "label": "الأكثر حرفية" },
+          { "option": "b", "label": "الأكثر مجازية" }
+        ]
+      },
+      {
+        "questionNumber": 66,
+        "question": "هل من الصعب بالنسبة لك:",
+        "options": [
+          { "option": "a", "label": "التعرف على الآخرين" },
+          { "option": "b", "label": "استخدام الآخرين" }
+        ]
+      },
+      {
+        "questionNumber": 67,
+        "question": "ماذا تتمنى أكثر لنفسك:",
+        "options": [
+          { "option": "a", "label": "وضوح العقل" },
+          { "option": "b", "label": "قوة الشفقة" }
+        ]
+      },
+      {
+        "questionNumber": 68,
+        "question": "ما هو العيب الأكبر:",
+        "options": [
+          { "option": "a", "label": "أن تكون غير تمييزي" },
+          { "option": "b", "label": "أن تكون نقديًا" }
+        ]
+      },
+      {
+        "questionNumber": 69,
+        "question": "هل تفضل ال:",
+        "options": [
+          { "option": "a", "label": "حدث مخطط له" },
+          { "option": "b", "label": "حدث غير مخطط له" }
+        ]
+      },
+      {
+        "questionNumber": 70,
+        "question": "هل تميل إلى أن تكون أكثر:",
+        "options": [
+          { "option": "a", "label": "تدبرًا من العفوية" },
+          { "option": "b", "label": "عفويًا من التدبر" }
+        ]
+      }
+  ]
+  

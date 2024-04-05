@@ -1,0 +1,602 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "À une fête, êtes-vous plutôt :",
+    "options": [
+      { "option": "a", "label": "Interagir avec beaucoup de gens, y compris des étrangers" },
+      { "option": "b", "label": "Interagir avec quelques personnes que vous connaissez" }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "Êtes-vous plus :",
+    "options": [
+      { "option": "a", "label": "Réaliste que spéculatif" },
+      { "option": "b", "label": "Spéculatif que réaliste" }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "Est-il pire de :",
+    "options": [
+      { "option": "a", "label": "Avoir la tête dans les nuages" },
+      { "option": "b", "label": "Être dans une routine" }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "Êtes-vous plus impressionné par :",
+    "options": [
+      { "option": "a", "label": "Les principes" },
+      { "option": "b", "label": "Les émotions" }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "Êtes-vous plus attiré par le :",
+    "options": [
+      { "option": "a", "label": "Convaincant" },
+      { "option": "b", "label": "Touchant" }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "question": "Préférez-vous travailler :",
+    "options": [
+      { "option": "a", "label": "Selon des délais" },
+      { "option": "b", "label": "Juste « quand vous le pouvez »" }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "Avez-vous tendance à choisir :",
+    "options": [
+      { "option": "a", "label": "Plutôt soigneusement" },
+      { "option": "b", "label": "Un peu impulsivement" }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "À une fête, faites-vous plutôt :",
+    "options": [
+      { "option": "a", "label": "Rester tard, avec une énergie croissante" },
+      { "option": "b", "label": "Partir tôt avec une énergie décroissante" }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "Êtes-vous plus attiré par :",
+    "options": [
+      { "option": "a", "label": "Les personnes sensées" },
+      { "option": "b", "label": "Les personnes imaginatives" }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "question": "Êtes-vous plus intéressé par :",
+    "options": [
+      { "option": "a", "label": "Ce qui est réel" },
+      { "option": "b", "label": "Ce qui est possible" }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "En jugeant les autres, êtes-vous plus influencé par :",
+    "options": [
+      { "option": "a", "label": "Les lois que les circonstances" },
+      { "option": "b", "label": "Les circonstances que les lois" }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "En abordant les autres, avez-vous tendance à être plutôt :",
+    "options": [
+      { "option": "a", "label": "Objectif" },
+      { "option": "b", "label": "Personnel" }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "Êtes-vous plus :",
+    "options": [
+      { "option": "a", "label": "Ponctuel" },
+      { "option": "b", "label": "Nonchalant" }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "question": "Vous dérange-t-il plus d'avoir des choses :",
+    "options": [
+      { "option": "a", "label": "Inachevées" },
+      { "option": "b", "label": "Complétées" }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "Dans vos groupes sociaux, êtes-vous plutôt :",
+    "options": [
+      { "option": "a", "label": "Au courant des événements des autres" },
+      { "option": "b", "label": "En retard sur les nouvelles" }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "Dans les choses ordinaires, avez-vous plus tendance à :",
+    "options": [
+      { "option": "a", "label": "Le faire de la manière habituelle" },
+      { "option": "b", "label": "Le faire à votre manière" }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "Les écrivains devraient :",
+    "options": [
+      { "option": "a", "label": "« Dire ce qu'ils veulent dire et vouloir dire ce qu'ils disent »" },
+      { "option": "b", "label": "Exprimer les choses davantage par l'utilisation d'analogies" }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "Qu'est-ce qui vous attire le plus :",
+    "options": [
+      { "option": "a", "label": "La cohérence de la pensée" },
+      { "option": "b", "label": "Les relations humaines harmonieuses" }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "Êtes-vous plus à l'aise pour faire des :",
+    "options": [
+      { "option": "a", "label": "Jugements logiques" },
+      { "option": "b", "label": "Jugements de valeur" }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "Préférez-vous que les choses soient :",
+    "options": [
+      { "option": "a", "label": "Réglées et décidées" },
+      { "option": "b", "label": "Non réglées et indécises" }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "Diriez-vous que vous êtes plutôt :",
+    "options": [
+      { "option": "a", "label": "Sérieux et déterminé" },
+      { "option": "b", "label": "Facile à vivre" }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "En téléphonant, :",
+    "options": [
+      { "option": "a", "label": "Rarement douter que tout sera dit" },
+      { "option": "b", "label": "Répéter ce que vous direz" }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "Les faits :",
+    "options": [
+      { "option": "a", "label": "« Parlent d'eux-mêmes »" },
+      { "option": "b", "label": "Illustrer les principes" }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "question": "Les visionnaires sont :",
+    "options": [
+      { "option": "a", "label": "Un peu ennuyeux" },
+      { "option": "b", "label": "Plutôt fascinants" }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "Êtes-vous plus souvent :",
+    "options": [
+      { "option": "a", "label": "Une personne calme et posée" },
+      { "option": "b", "label": "Une personne chaleureuse et affectueuse" }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "Est-il pire d'être :",
+    "options": [
+      { "option": "a", "label": "Injuste" },
+      { "option": "b", "label": "Sans pitié" }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "Devrait-on généralement laisser les événements se dérouler :",
+    "options": [
+      { "option": "a", "label": "Par une sélection et un choix soignés" },
+      { "option": "b", "label": "De manière aléatoire et par hasard" }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "Vous sentez-vous mieux à propos de :",
+    "options": [
+      { "option": "a", "label": "Avoir acheté" },
+      { "option": "b", "label": "Avoir la possibilité d'acheter" }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "En société, êtes-vous plutôt :",
+    "options": [
+      { "option": "a", "label": "Initier la conversation" },
+      { "option": "b", "label": "Attendre qu'on vous aborde" }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "Le bon sens est-il :",
+    "options": [
+      { "option": "a", "label": "Rarement discutable" },
+      { "option": "b", "label": "Fréquemment discutable" }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "Les enfants ne font souvent pas assez :",
+    "options": [
+      { "option": "a", "label": "Se rendre utiles" },
+      { "option": "b", "label": "Exercer leur fantaisie" }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "En prenant des décisions, vous sentez-vous plus à l'aise avec :",
+    "options": [
+      { "option": "a", "label": "Les normes" },
+      { "option": "b", "label": "Les sentiments" }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "Êtes-vous plus :",
+    "options": [
+      { "option": "a", "label": "Ferme que doux" },
+      { "option": "b", "label": "Doux que ferme" }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "question": "Quel est le plus admirable :",
+    "options": [
+      { "option": "a", "label": "La capacité à s'organiser et à être méthodique" },
+      { "option": "b", "label": "La capacité à s'adapter et à faire avec" }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "Met-elle plus de valeur sur :",
+    "options": [
+      { "option": "a", "label": "L'infini" },
+      { "option": "b", "label": "L'esprit ouvert" }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "Les nouvelles et les interactions non routinières avec les autres :",
+    "options": [
+      { "option": "a", "label": "Vous stimulent et vous énergisent" },
+      { "option": "b", "label": "Taxent vos réserves" }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "Êtes-vous plus fréquemment :",
+    "options": [
+      { "option": "a", "label": "Une personne pratique" },
+      { "option": "b", "label": "Une personne fantaisiste" }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "Êtes-vous plus susceptible de :",
+    "options": [
+      { "option": "a", "label": "Voir comment les autres sont utiles" },
+      { "option": "b", "label": "Voir comment les autres voient" }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "Qu'est-ce qui est le plus satisfaisant :",
+    "options": [
+      { "option": "a", "label": "Discuter d'un problème en profondeur" },
+      { "option": "b", "label": "Arriver à un accord sur un problème" }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "Qu'est-ce qui vous gouverne le plus :",
+    "options": [
+      { "option": "a", "label": "Votre tête" },
+      { "option": "b", "label": "Votre cœur" }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "Êtes-vous plus à l'aise avec un travail qui est :",
+    "options": [
+      { "option": "a", "label": "Contracté" },
+      { "option": "b", "label": "Fait de manière informelle" }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "Avez-vous tendance à rechercher :",
+    "options": [
+      { "option": "a", "label": "L'ordre" },
+      { "option": "b", "label": "Peu importe ce qui se présente" }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "Préférez-vous :",
+    "options": [
+      { "option": "a", "label": "Beaucoup d'amis avec un contact bref" },
+      { "option": "b", "label": "Quelques amis avec un contact plus long" }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "Suivez-vous plus :",
+    "options": [
+      { "option": "a", "label": "Les faits" },
+      { "option": "b", "label": "Les principes" }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "Êtes-vous plus intéressé par :",
+    "options": [
+      { "option": "a", "label": "La production et la distribution" },
+      { "option": "b", "label": "La conception et la recherche" }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "Quel est le plus grand compliment :",
+    "options": [
+      { "option": "a", "label": "« Il y a une personne très logique. »" },
+      { "option": "b", "label": "« Il y a une personne très sentimentale. »" }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "Valorisez-vous plus en vous-même le fait que vous êtes :",
+    "options": [
+      { "option": "a", "label": "Inflexible" },
+      { "option": "b", "label": "Dévoué" }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "Préférez-vous le plus souvent la déclaration :",
+    "options": [
+      { "option": "a", "label": "Finale et immuable" },
+      { "option": "b", "label": "Tentative et préliminaire" }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "Êtes-vous plus à l'aise :",
+    "options": [
+      { "option": "a", "label": "Après une décision" },
+      { "option": "b", "label": "Avant une décision" }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "Faites-vous :",
+    "options": [
+      { "option": "a", "label": "Facilement et longuement la conversation avec des étrangers" },
+      { "option": "b", "label": "Trouver peu à dire aux étrangers" }
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "question": "Faites-vous plus confiance à votre :",
+    "options": [
+      { "option": "a", "label": "Expérience" },
+      { "option": "b", "label": "Intuition" }
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "question": "Vous sentez-vous :",
+    "options": [
+      { "option": "a", "label": "Plus pratique qu'ingénieux" },
+      { "option": "b", "label": "Plus ingénieux que pratique" }
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "question": "Quelle personne est-elle plus à complimenter - l'une :",
+    "options": [
+      { "option": "a", "label": "De raison claire" },
+      { "option": "b", "label": "De sentiment fort" }
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "question": "Avez-vous tendance à être plus :",
+    "options": [
+      { "option": "a", "label": "Juste" },
+      { "option": "b", "label": "Compatissant" }
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "question": "Est-il préférable surtout de :",
+    "options": [
+      { "option": "a", "label": "Veillez à ce que les choses soient organisées" },
+      { "option": "b", "label": "Laisser simplement les choses se passer" }
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "question": "Dans les relations, la plupart des choses doivent-elles être :",
+    "options": [
+      { "option": "a", "label": "Renégociable" },
+      { "option": "b", "label": "Aléatoire et circonstancielle" }
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "question": "Quand le téléphone sonne, :",
+    "options": [
+      { "option": "a", "label": "Vous précipitez pour y répondre en premier" },
+      { "option": "b", "label": "Espérez que quelqu'un d'autre répondra" }
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "question": "Qu'appréciez-vous le plus chez vous :",
+    "options": [
+      { "option": "a", "label": "Un fort sens de la réalité" },
+      { "option": "b", "label": "Une imagination vive" }
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "question": "Êtes-vous plus attiré par :",
+    "options": [
+      { "option": "a", "label": "Les fondamentaux" },
+      { "option": "b", "label": "Les nuances" }
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "question": "Quelle semble être l'erreur la plus importante :",
+    "options": [
+      { "option": "a", "label": "Être trop passionné" },
+      { "option": "b", "label": "Être trop objectif" }
+    ]
+  },
+  {
+    "questionNumber": 61,
+    "question": "Vous voyez-vous fondamentalement comme :",
+    "options": [
+      { "option": "a", "label": "Rationnel" },
+      { "option": "b", "label": "Sentimental" }
+    ]
+  },
+  {
+    "questionNumber": 62,
+    "question": "Quelle situation vous attire le plus :",
+    "options": [
+      { "option": "a", "label": "La précision" },
+      { "option": "b", "label": "L'approximation" }
+    ]
+  },
+  {
+    "questionNumber": 63,
+    "question": "Seriez-vous plus susceptible d'écouter :",
+    "options": [
+      { "option": "a", "label": "Vos sentiments" },
+      { "option": "b", "label": "Votre jugement" }
+    ]
+  },
+  {
+    "questionNumber": 64,
+    "question": "Diriez-vous que vous êtes plus :",
+    "options": [
+      { "option": "a", "label": "Tête froide" },
+      { "option": "b", "label": "Chaleureux" }
+    ]
+  },
+  {
+    "questionNumber": 65,
+    "question": "Vos rêves tendent-ils à être :",
+    "options": [
+      { "option": "a", "label": "Pratiques" },
+      { "option": "b", "label": "Fantastiques" }
+    ]
+  },
+  {
+    "questionNumber": 66,
+    "question": "Croyez-vous plus :",
+    "options": [
+      { "option": "a", "label": "Aux yeux que vous voyez" },
+      { "option": "b", "label": "A ce que vous voyez dans votre esprit" }
+    ]
+  },
+  {
+    "questionNumber": 67,
+    "question": "Préférez-vous :",
+    "options": [
+      { "option": "a", "label": "Faire des plans" },
+      { "option": "b", "label": "Consulter vos réactions" }
+    ]
+  },
+  {
+    "questionNumber": 68,
+    "question": "Êtes-vous plus souvent :",
+    "options": [
+      { "option": "a", "label": "Solitaire" },
+      { "option": "b", "label": "Sociable" }
+    ]
+  },
+  {
+    "questionNumber": 69,
+    "question": "Les nouvelles idées et les nouvelles façons de faire :",
+    "options": [
+      { "option": "a", "label": "Sont quelque chose à accueillir avec prudence" },
+      { "option": "b", "label": "Sont quelque chose à accueillir avec enthousiasme" }
+    ]
+  },
+  {
+    "questionNumber": 70,
+    "question": "Avez-vous plus d'estime pour :",
+    "options": [
+      { "option": "a", "label": "Le réaliste" },
+      { "option": "b", "label": "L'imaginatif" }
+    ]
+  },
+  {
+    "questionNumber": 71,
+    "question": "Considérez-vous comme une personne :",
+    "options": [
+      { "option": "a", "label": "Franche" },
+      { "option": "b", "label": "Affectueuse" }
+    ]
+  },
+  {
+    "questionNumber": 72,
+    "question": "Préférez-vous :",
+    "options": [
+      { "option": "a", "label": "La plupart des situations planifiées" },
+      { "option": "b", "label": "La plupart des situations spontanées" }
+    ]
+  },
+  {
+    "questionNumber": 73,
+    "question": "Dans les discussions, :",
+    "options": [
+      { "option": "a", "label": "Vos faits parlent d'eux-mêmes" },
+      { "option": "b", "label": "Vous êtes souvent influencé par les émotions" }
+    ]
+  },
+  {
+    "questionNumber": 74,
+    "question": "Aimez-vous être autour de :",
+    "options": [
+      { "option": "a", "label": "Les gens rationnels" },
+      { "option": "b", "label": "Les gens sentimentaux" }
+    ]
+  },
+  {
+    "questionNumber": 75,
+    "question": "Dans vos fonctions de travail, :",
+    "options": [
+      { "option": "a", "label": "Il y a du plaisir à rencontrer des étrangers" },
+      { "option": "b", "label": "Il y a du plaisir à rencontrer des gens familiers" }
+    ]
+  }
+]

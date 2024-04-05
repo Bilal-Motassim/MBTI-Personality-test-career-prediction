@@ -1,23 +1,35 @@
 import logo from './logo.svg';
 import './App.css';
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Button from '@mui/material/Button';
 import NavigateNextIcon from '@mui/icons-material/NavigateNext';
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 import Grid from '@mui/material/Grid';
-import Questions from "./Questions.json"
+import QuestionsEN from "./QuestionsEN.json";
+import QuestionsAR from "./QuestionsAR.json";
+import QuestionsFR from "./QuestionsFR.json";
 import Question from './Question';
 import axios from 'axios';
 import NavBar from './NavBar';
 
 
 function App() {
-  const [selectedAnswers, setSelectedAnswers] = React.useState(Array(Questions.length).fill(''));
+  const [language,setLanguage] = React.useState("en");
+  const [questions, setQuestions] = React.useState(QuestionsEN);
+  const [selectedAnswers, setSelectedAnswers] = React.useState(Array(questions.length).fill(''));
   const [currentPage, setCurrentPage] = React.useState(0);
   const [personnality, setper] = React.useState("");
-
   const [ableToNext, GoNext] = useState(false);
-
+  useEffect(()=>{
+    if (language === "ar"){
+      setQuestions(QuestionsAR);
+    }
+    else if(language === "fr"){
+      setQuestions(QuestionsFR);
+    }else{
+      setQuestions(QuestionsEN);
+    }
+  },[language])
   const handleRadioChange = (event, index) => {
     const newSelectedAnswers = [...selectedAnswers];
     newSelectedAnswers[index] = event.target.value;
@@ -44,7 +56,7 @@ function App() {
     return chunks;
   }
 
-  const questionsChunks = chunkArray(Questions, 10);
+  const questionsChunks = chunkArray(questions, 10);
   const currentChunk = questionsChunks[currentPage];
 
   const nextPage = () => {
@@ -71,10 +83,14 @@ function App() {
       .catch((err) => { console.log(err.message) })
   }
 
+  function changeLN(ln){
+    setLanguage(ln);
+  }
+
   return (
 
     <>
-      <NavBar />
+      <NavBar changeLN={changeLN}/>
       <Grid
         container
         spacing={2}

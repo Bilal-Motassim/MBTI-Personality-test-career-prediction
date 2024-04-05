@@ -41,13 +41,13 @@ export default function Question(props) {
                     <FormControlLabel
                         value="A"
                         control={<Radio />}
-                        label={"A: " + props.A}
+                        label={props.A}
                         labelPlacement="end"
                     />
                     <FormControlLabel
                         value="B"
                         control={<Radio />}
-                        label={"B: " + props.B}
+                        label={props.B}
                         labelPlacement="end"
                     />
 
